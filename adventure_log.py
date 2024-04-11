@@ -1,1 +1,5 @@
-x=1 
+def greet_coding_temple():
+    print ("Ahoy, Coding Temple Navigators! Ready for today'a adventure?")
+
+if __name__ == "__main__":
+    greet_coding_temple()
